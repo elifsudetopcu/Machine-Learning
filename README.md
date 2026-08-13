@@ -32,8 +32,6 @@ Each folder contains notes, examples, and code related to the corresponding topi
 
 Special thanks to **Türkiye Yapay Zeka Akademisi (TRAI)** for providing the training and learning resources that contributed to the development of these notes and practical studies.
 
-🔗 **Türkiye Yapay Zeka Akademisi:** https://turkiye.ai/
-
 ## 🎯 Purpose
 
 The main purpose of this repository is to document my Machine Learning learning journey, reinforce the concepts I learn through practice, and build a useful reference for future projects.
